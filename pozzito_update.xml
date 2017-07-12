@@ -1,7 +1,7 @@
 <updates>
 	<update>
-		<name>Pozzito</name>
-		<description>This is Pozzito Live Chat & Support  1.0.1</description>
+		<name>Pozzito Live Chat</name>
+		<description>This is Pozzito Live Chat and Support  1.0.1</description>
 		<element>pozzito</element>
 		<type>plugin</type>
 		<version>1.0.1</version>
